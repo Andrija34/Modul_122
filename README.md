@@ -17,6 +17,7 @@ Das Script erfüllt folgende Anforderungen:
 - Optional: Versand von Informationen per Mail
 
 ## 🛠️ Projektstruktur
+```bash
 /
 ├── automate.sh              # Hauptscript
 ├── mein_projekt.cfg         # Konfigurationsdatei (optional)
