@@ -20,8 +20,8 @@ Das Script erfüllt folgende Anforderungen:
 ```bash
 /
 ├── automate.sh              # Hauptscript
-├── mein_projekt.cfg         # Konfigurationsdatei (optional)
-├── mein_projekt.log         # Beispielhafte Logdatei (generiert automatisch)
+├── mein_projekt.cfg         # Konfigurationsdatei 
+├── mein_projekt.log         # Beispielhafte Logdatei 
 ├── crontab.txt              # Beispiel für CronJob
 ├── README.md                # Dieses Dokument
 ├── UML/
