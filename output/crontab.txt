@@ -1,0 +1,1 @@
+*/30 * * * * /C:/_Dokumentenablage/030_TBZ/040_Module/Modul_122/automate.sh

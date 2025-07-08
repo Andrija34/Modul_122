@@ -1,0 +1,193 @@
+[2025-07-08 09:02:13] 🌐 Abruf externer Daten via curl
+[2025-07-08 09:02:13] ❌ Fehler: Keine gültigen Daten empfangen – Abbruch
+[2025-07-08 09:03:06] 🌐 Abruf externer Daten via curl
+[2025-07-08 09:03:07] ❌ Fehler: Keine gültigen Daten empfangen – Abbruch
+[2025-07-08 09:03:09] 🌐 Abruf externer Daten via curl
+[2025-07-08 09:03:09] ❌ Fehler: Keine gültigen Daten empfangen – Abbruch
+[2025-07-08 09:03:11] 🌐 Abruf externer Daten via curl
+[2025-07-08 09:03:11] ❌ Fehler: Keine gültigen Daten empfangen – Abbruch
+[2025-07-08 09:04:49] 🌐 Abruf externer Daten via curl
+[2025-07-08 09:04:49] ❌ Fehler: Keine gültigen Daten empfangen – Abbruch
+[2025-07-08 09:06:12] 🌐 Abruf externer Daten via curl
+[2025-07-08 09:06:12] ❌ Fehler: Keine gültigen Daten empfangen – Abbruch
+[2025-07-08 09:07:59] 🌐 Abruf externer Daten via curl
+[2025-07-08 09:07:59] ❌ Fehler: Keine gültigen Daten empfangen – Abbruch
+[2025-07-08 09:17:49] 🌐 Abruf externer Daten via curl
+[2025-07-08 09:17:49] ❌ Fehler: Keine gültigen Daten empfangen – Abbruch
+[2025-07-08 09:18:39] 🌐 Abruf externer Daten via curl
+[2025-07-08 09:18:39] ❌ Fehler: Keine gültigen Daten empfangen – Abbruch
+[2025-07-08 09:19:42] 🌐 Abruf externer Daten via curl
+[2025-07-08 09:19:42] ❌ Fehler: Keine gültigen Daten empfangen – Abbruch
+[2025-07-08 09:23:30] 🌐 Abruf externer Daten via curl
+[2025-07-08 09:23:30] ❌ Fehler: Keine gültigen Daten empfangen – Abbruch
+[2025-07-08 09:30:19] 🌐 Abruf externer Daten via curl
+[2025-07-08 09:30:19] ❌ Fehler: Keine gültigen Daten empfangen – Abbruch
+[2025-07-08 09:30:52] 🌐 Abruf externer Daten via curl
+[2025-07-08 09:30:52] ❌ Fehler: Keine gültigen Daten empfangen – Abbruch
+[2025-07-08 09:32:53] 🌐 Abruf externer Daten via curl
+[2025-07-08 09:32:53] ❌ Fehler: Keine gültigen Daten empfangen – Abbruch
+[2025-07-08 09:39:53] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 09:39:54] ✅ Bericht gespeichert: output/status_20250708-093953.txt
+[2025-07-08 09:39:54] 🗜️ ZIP erstellt: output/data_20250708-093953.zip
+[2025-07-08 09:40:25] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 09:40:25] ✅ Bericht gespeichert: output/status_20250708-094025.txt
+[2025-07-08 09:40:26] 🗜️ ZIP erstellt: output/data_20250708-094025.zip
+[2025-07-08 09:40:47] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 09:40:47] ✅ Bericht gespeichert: output/status_20250708-094047.txt
+[2025-07-08 09:40:47] ⚠️ CPU zu hoch: 100%
+[2025-07-08 09:40:48] 📧 Mail an milosevic-andrija@gmx.ch gesendet
+[2025-07-08 09:40:48] 🗜️ ZIP erstellt: output/data_20250708-094047.zip
+[2025-07-08 09:47:13] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 09:47:13] ✅ Bericht gespeichert: output/status_20250708-094713.txt
+[2025-07-08 09:48:30] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 09:48:30] ✅ Bericht gespeichert: output/status_20250708-094829.txt
+[2025-07-08 09:48:30] ⚠️ CPU zu hoch: 100%
+[2025-07-08 09:48:31] 🗜️ ZIP erstellt: output/data_20250708-094829.zip
+[2025-07-08 10:18:36] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 10:18:36] ✅ Bericht gespeichert: output/status_20250708-101836.txt
+[2025-07-08 10:18:36] 🗜️ ZIP erstellt: output/data_20250708-101836.zip
+[2025-07-08 10:27:21] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 10:27:21] ✅ Bericht gespeichert: output/status_20250708-102721.txt
+[2025-07-08 10:27:21] 🗜️ ZIP erstellt: output/data_20250708-102721.zip
+[2025-07-08 10:28:40] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 10:28:40] ✅ Bericht gespeichert: output/status_20250708-102840.txt
+[2025-07-08 10:28:41] 🗜️ ZIP erstellt: output/data_20250708-102840.zip
+[2025-07-08 10:31:38] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 10:31:38] ✅ Bericht gespeichert: output/status_20250708-103138.txt
+[2025-07-08 10:31:39] ⚠️ CPU zu hoch: 100%
+[2025-07-08 10:31:39] 🗜️ ZIP erstellt: output/data_20250708-103138.zip
+[2025-07-08 10:52:16] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 10:52:16] ✅ Bericht gespeichert: output/status_20250708-105216.txt
+[2025-07-08 10:52:17] ⚠️ CPU zu hoch: 100%
+[2025-07-08 10:52:17] 🗜️ ZIP erstellt: output/data_20250708-105216.zip
+[2025-07-08 10:59:42] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 10:59:43] ✅ Bericht gespeichert: output/status_20250708-105942.txt
+[2025-07-08 10:59:43] 🗜️ ZIP erstellt: output/data_20250708-105942.zip
+[2025-07-08 11:00:09] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 11:00:09] ✅ Bericht gespeichert: output/status_20250708-110009.txt
+[2025-07-08 11:00:09] 🗜️ ZIP erstellt: output/data_20250708-110009.zip
+[2025-07-08 11:08:02] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 11:08:03] ✅ Bericht gespeichert: output/status_20250708-110802.txt
+[2025-07-08 11:08:03] ⚠️ CPU zu hoch: 100%
+[2025-07-08 11:08:04] 🗜️ ZIP erstellt: output/data_20250708-110802.zip
+[2025-07-08 11:09:48] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 11:09:48] ✅ Bericht gespeichert: output/status_20250708-110948.txt
+[2025-07-08 11:09:49] ⚠️ CPU zu hoch: 100%
+[2025-07-08 11:09:51] 🗜️ ZIP erstellt: output/data_20250708-110948.zip
+[2025-07-08 11:32:08] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 11:32:08] ✅ Bericht gespeichert: output/status_20250708-113208.txt
+[2025-07-08 11:32:09] 🗜️ ZIP erstellt: output/data_20250708-113208.zip
+[2025-07-08 11:32:21] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 11:32:21] ✅ Bericht gespeichert: output/status_20250708-113220.txt
+[2025-07-08 11:32:21] ⚠️ CPU zu hoch: 100%
+[2025-07-08 11:32:22] 🗜️ ZIP erstellt: output/data_20250708-113220.zip
+[2025-07-08 13:17:48] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:17:48] ✅ Bericht gespeichert: output/status_20250708-131748.txt
+[2025-07-08 13:17:48] ⚠️ CPU zu hoch: 100%
+[2025-07-08 13:17:49] 🗜️ ZIP erstellt: output/data_20250708-131748.zip
+[2025-07-08 13:20:39] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:20:40] ✅ Bericht gespeichert: output/status_20250708-132039.txt
+[2025-07-08 13:20:40] 🗜️ ZIP erstellt: output/data_20250708-132039.zip
+[2025-07-08 13:20:50] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:20:50] ✅ Bericht gespeichert: output/status_20250708-132050.txt
+[2025-07-08 13:20:50] ⚠️ CPU zu hoch: 100%
+[2025-07-08 13:20:51] 🗜️ ZIP erstellt: output/data_20250708-132050.zip
+[2025-07-08 13:22:06] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:22:06] ✅ Bericht gespeichert: output/status_20250708-132206.txt
+[2025-07-08 13:22:06] ⚠️ CPU zu hoch: 100%
+[2025-07-08 13:22:06] ⚠️ CPU zu hoch: 100%
+[2025-07-08 13:22:07] 🗜️ ZIP erstellt: output/data_20250708-132206.zip
+[2025-07-08 13:32:06] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:32:06] ✅ Bericht gespeichert: output/status_20250708-133206.txt
+[2025-07-08 13:34:43] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:34:43] ✅ Bericht gespeichert: output/status_20250708-133443.txt
+[2025-07-08 13:35:46] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:35:46] ✅ Bericht gespeichert: output/status_20250708-133546.txt
+[2025-07-08 13:35:47] ⚠️ CPU zu hoch: 100%
+[2025-07-08 13:35:47] 🗜️ ZIP erstellt: output/data_20250708-133546.zip
+[2025-07-08 13:38:14] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:38:14] ✅ Bericht gespeichert: output/status_20250708-133814.txt
+[2025-07-08 13:38:14] ⚠️ CPU zu hoch: 100%
+[2025-07-08 13:38:15] 🗜️ ZIP erstellt: output/data_20250708-133814.zip
+[2025-07-08 13:39:00] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:39:00] ✅ Bericht gespeichert: output/status_20250708-133900.txt
+[2025-07-08 13:39:01] 🗜️ ZIP erstellt: output/data_20250708-133900.zip
+[2025-07-08 13:39:34] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:39:34] ✅ Bericht gespeichert: output/status_20250708-133934.txt
+[2025-07-08 13:39:34] ⚠️ CPU zu hoch: 100%
+[2025-07-08 13:39:35] 🗜️ ZIP erstellt: output/data_20250708-133934.zip
+[2025-07-08 13:40:34] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:40:34] ✅ Bericht gespeichert: output/status_20250708-134034.txt
+[2025-07-08 13:40:34] ⚠️ CPU zu hoch: 100%
+[2025-07-08 13:40:35] 🗜️ ZIP erstellt: output/data_20250708-134034.zip
+[2025-07-08 13:42:11] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:42:11] ✅ Bericht gespeichert: output/status_20250708-134211.txt
+[2025-07-08 13:42:11] ⚠️ CPU zu hoch: 100%
+[2025-07-08 13:42:11] 📦 ZIP erstellt: output/data_20250708-134211.zip
+[2025-07-08 13:42:12] 🗜️ ZIP erstellt: output/data_20250708-134211.zip
+[2025-07-08 13:43:42] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:43:42] ✅ Bericht gespeichert: output/status_20250708-134341.txt
+[2025-07-08 13:43:42] ⚠️ CPU zu hoch: 100%
+[2025-07-08 13:43:42] 📦 ZIP erstellt: output/data_20250708-134341.zip
+[2025-07-08 13:43:43] 🗜️ ZIP erstellt: output/data_20250708-134341.zip
+[2025-07-08 13:44:58] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:44:58] ✅ Bericht gespeichert: output/status_20250708-134458.txt
+[2025-07-08 13:44:59] ⚠️ CPU zu hoch: 100%
+[2025-07-08 13:44:59] 📦 ZIP erstellt: output/data_20250708-134458.zip
+[2025-07-08 13:45:00] 🗜️ ZIP erstellt: output/data_20250708-134458.zip
+[2025-07-08 13:48:56] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:48:56] ✅ Bericht gespeichert: output/status_20250708-134856.txt
+[2025-07-08 13:48:57] ⚠️ CPU zu hoch: 100%
+[2025-07-08 13:48:57] 📦 ZIP erstellt: output/data_20250708-134856.zip
+[2025-07-08 13:48:57] 🗜️ ZIP erstellt: output/data_20250708-134856.zip
+[2025-07-08 13:50:01] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:50:01] ✅ Bericht gespeichert: output/status_20250708-135001.txt
+[2025-07-08 13:50:01] ⚠️ CPU zu hoch: 100%
+[2025-07-08 13:50:01] 📦 ZIP erstellt: output/data_20250708-135001.zip
+[2025-07-08 13:50:03] 🗜️ ZIP erstellt: output/data_20250708-135001.zip
+[2025-07-08 13:54:26] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:54:26] ✅ Bericht gespeichert: output/status_20250708-135426.txt
+[2025-07-08 13:54:28] 🗜️ ZIP erstellt: output/data_20250708-135426.zip
+[2025-07-08 13:55:16] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:55:16] ✅ Bericht gespeichert: output/status_20250708-135516.txt
+[2025-07-08 13:55:17] 🗜️ ZIP erstellt: output/data_20250708-135516.zip
+[2025-07-08 13:55:18] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:55:18] ✅ Bericht gespeichert: output/status_20250708-135518.txt
+[2025-07-08 13:55:19] ⚠️ CPU zu hoch: 100%
+[2025-07-08 13:55:19] 📦 ZIP erstellt: output/data_20250708-135518.zip
+[2025-07-08 13:55:19] 🗜️ ZIP erstellt: output/data_20250708-135518.zip
+[2025-07-08 13:56:15] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:56:15] ✅ Bericht gespeichert: output/status_20250708-135615.txt
+[2025-07-08 13:56:15] ⚠️ CPU zu hoch: 100%
+[2025-07-08 13:56:15] 📦 ZIP erstellt: output/data_20250708-135615.zip
+[2025-07-08 13:56:16] 🗜️ ZIP erstellt: output/data_20250708-135615.zip
+[2025-07-08 13:57:38] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:57:38] ✅ Bericht gespeichert: output/status_20250708-135738.txt
+[2025-07-08 13:59:27] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 13:59:28] ✅ Bericht gespeichert: output/status_20250708-135927.txt
+[2025-07-08 14:00:44] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 14:00:44] ✅ Bericht gespeichert: output/status_20250708-140044.txt
+[2025-07-08 14:02:22] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 14:02:22] ✅ Bericht gespeichert: output/status_20250708-140222.txt
+[2025-07-08 14:04:48] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 14:04:49] ✅ Bericht gespeichert: output/status_20250708-140448.txt
+[2025-07-08 14:05:14] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 14:05:14] ✅ Bericht gespeichert: output/status_20250708-140514.txt
+[2025-07-08 14:05:35] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 14:05:36] ✅ Bericht gespeichert: output/status_20250708-140535.txt
+[2025-07-08 14:09:00] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 14:09:00] ✅ Bericht gespeichert: output/status_20250708-140900.txt
+[2025-07-08 14:11:59] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 14:11:59] ✅ Bericht gespeichert: output/status_20250708-141159.txt
+[2025-07-08 14:15:58] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 14:15:59] ✅ Bericht gespeichert: output/status_20250708-141558.txt
+[2025-07-08 14:15:59] ⚠️ CPU zu hoch: 100%
+[2025-07-08 14:15:59] 📦 ZIP erstellt: output/data_20250708-141558.zip
+[2025-07-08 14:15:59] 📦 ZIP erstellt: output/data_20250708-141558.zip
+[2025-07-08 14:16:00] 📨 Sende Mail an milosevic-andrija@gmx.ch mit Anhang: output/data_20250708-141558.zip
+[2025-07-08 14:19:28] ⚠️ Kein curl – Dummy-Daten schreiben
+[2025-07-08 14:19:28] ✅ Bericht gespeichert: output/status_20250708-141928.txt
+[2025-07-08 14:19:28] ⚠️ CPU zu hoch: 100%
+[2025-07-08 14:19:28] 📦 ZIP erstellt: output/data_20250708-141928.zip
+[2025-07-08 14:19:29] 📦 ZIP erstellt: output/data_20250708-141928.zip
+[2025-07-08 14:19:29] 📨 Sende Mail an milosevic-andrija@gmx.ch mit Anhang: output/data_20250708-141928.zip
